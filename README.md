@@ -1,2 +1,1 @@
-# python-training
-python training?
+print("Hello World")
